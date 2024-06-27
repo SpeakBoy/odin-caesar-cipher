@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 ASCII_UPCASE_MIN = 65
 ASCII_UPCASE_MAX = 90
 ASCII_DOWNCASE_MIN = 97
